@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "PORT=8001 node index.js",
     "test": "jest"
-    "dev": "node server.js --port 8085"
   },
   "author": "",
   "license": "ISC",
