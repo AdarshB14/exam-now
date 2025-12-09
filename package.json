@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=8001 node index.js",
+    "start": "node index.js",
     "test": "jest"
   },
   "author": "",
